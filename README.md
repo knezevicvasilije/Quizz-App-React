@@ -1,2 +1,2 @@
-# Quizz-App-React
+# Quiz-App-React
 Created with CodeSandbox
